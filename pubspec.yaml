@@ -63,12 +63,12 @@ flutter:
     - images/
 
   fonts:
-    - family: Staatliches
+    - family: Poppins
       fonts:
-        - asset: fonts/Staatliches-Regular.ttf
+        - asset: fonts/Poppins/Poppins-Regular.ttf
     - family: Oxygen
       fonts:
-        - asset: fonts/Oxygen-Regular.ttf
+        - asset: fonts/Oxygen/Oxygen-Regular.ttf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
